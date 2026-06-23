@@ -8,5 +8,5 @@ function contactus() {
         </div>
     );
 }
-// Demo test nilam singh ttyy
+// Demo test nilam singh
 export default contactus;
